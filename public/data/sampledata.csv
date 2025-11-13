@@ -1,0 +1,8 @@
+name,createdBy,lastModified,type,source,rows,features,size
+qa-public-airlines10k-2025-05-15,Isabella B.,2025-05-15,Snapshot,Data Registry,9,24,1.43 KB
+Wrangling for 10k_diabetes.csv,Jennifer D.,2025-05-06,Wrangling,Data Registry,-,-,-
+Wrangling for 10k_diabetes.csv,Isabella B.,2025-03-17,SQL,Data Registry,-,-,-
+10k_diabetes.csv (Wrangled-feb-1),Isabella B.,2025-03-11,Static,Data Registry,1786,51,667 KB
+Snowflake_dynamic (Recipe: Feature Discovery),Jennifer D.,2025-03-10,Feature Discovery,Data Registry,-,-,-
+Snowflake_10K,Isabella B.,2025-02-26,Snapshot,Snowflake,-,-,-
+10k_diabetes.csv (Recipe: Feature Discovery),Isabella B.,2025-02-25,Feature Discovery,Data Registry,-,-,-
